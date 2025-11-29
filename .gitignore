@@ -1,0 +1,75 @@
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# Build outputs
+build/
+dist/
+*.apk
+*.aab
+*.ipa
+
+# React Native
+react-native-quran-hafs/android/app/build/
+react-native-quran-hafs/android/.gradle/
+react-native-quran-hafs/android/build/
+react-native-quran-hafs/ios/build/
+react-native-quran-hafs/ios/Pods/
+react-native-quran-hafs/.expo/
+
+# Metro bundler
+.metro-health-check*
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS files
+Thumbs.db
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Lock files (optional - you may want to keep these)
+# package-lock.json
+# yarn.lock
+
+# Gradle
+.gradle/
+local.properties
+
+# Buck
+buck-out/
+\.buckd/
+*.keystore
+!debug.keystore
+
+# CocoaPods
+react-native-quran-hafs/ios/Pods/
+
+# Fonts folder - too large for git (600+ files, ~100MB)
+# Host these separately or download from quran.com-images repo
+FontServer/fonts/
+
+# quran.com-images - can be cloned separately
+quran.com-images/
+

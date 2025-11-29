@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Cairo.ttf",
+      "sha1": "665ae399222c5c4e2cf11d14921df4c96b017d1d"
+    },
+    {
+      "path": "src/assets/fonts/QCF_BSML.ttf",
+      "sha1": "36fc556b753e3c359147efb5c346b0012e44e0b6"
+    },
+    {
+      "path": "src/assets/fonts/QCF_P001.ttf",
+      "sha1": "d18804217272bc978a3344d53d5a4c5fad3cf429"
+    }
+  ]
+}
