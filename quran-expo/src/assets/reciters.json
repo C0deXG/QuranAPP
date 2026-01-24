@@ -1,0 +1,218 @@
+[
+  {
+    "id": 41,
+    "name": "qari_afasy_gapless",
+    "path": "mishari_alafasy",
+    "url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/",
+    "databaseName": "mishari_alafasy",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 23,
+    "name": "qari_abdulbaset_mujawwad_gapless",
+    "path": "abdulbaset_mujawwad",
+    "url": "https://download.quranicaudio.com/quran/abdulbaset_mujawwad/",
+    "databaseName": "abdul_basit_mujawwad",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 4,
+    "name": "qari_abdulbaset_murattal_gapless",
+    "path": "abdul_basit_murattal",
+    "url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/",
+    "databaseName": "abdul_basit_murattal",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 3,
+    "name": "qari_sudais_gapless",
+    "path": "abdurrahmaan_as-sudays",
+    "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/",
+    "databaseName": "abdurrahmaan_as-sudays",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 26,
+    "name": "qari_husary_gapless",
+    "path": "mahmoud_khaleel_al-husary",
+    "url": "https://download.quranicaudio.com/quran/mahmoud_khaleel_al-husary/",
+    "databaseName": "mahmoud_khaleel_al-husary",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 17,
+    "name": "qari_minshawi_mujawwad_gapless",
+    "path": "muhammad_siddeeq_al-minshawi_mujawwad",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshawi_mujawwad/",
+    "databaseName": "muhammad_siddeeq_al-minshawi_mujawwad",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 18,
+    "name": "qari_minshawi_murattal_gapless",
+    "path": "minshawi_murattal",
+    "url": "https://download.quranicaudio.com/quran/minshawi_murattal/",
+    "databaseName": "minshawi_murattal",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 11,
+    "name": "qari_ghamdi_gapless",
+    "path": "sa3d_al-ghaamidi",
+    "url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/",
+    "databaseName": "sa3d_al-ghaamidi",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 12,
+    "name": "qari_shuraim_gapless",
+    "path": "saud_ash-shuraim",
+    "url": "https://download.quranicaudio.com/quran/saud_ash-shuraim/",
+    "databaseName": "saud_ash-shuraim",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 7,
+    "name": "qari_ayyub_gapless",
+    "path": "muhammad_ayyub",
+    "url": "https://download.quranicaudio.com/quran/muhammad_ayyub/",
+    "databaseName": "muhammad_ayyub",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 8,
+    "name": "qari_maher_gapless",
+    "path": "maher_almuayqly",
+    "url": "https://download.quranicaudio.com/quran/maher_almuayqly/",
+    "databaseName": "maher_almuayqly",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 9,
+    "name": "qari_basfar_gapless",
+    "path": "abdallah_basfar",
+    "url": "https://download.quranicaudio.com/quran/abdallah_basfar/",
+    "databaseName": "abdallah_basfar",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 10,
+    "name": "qari_fares_abbad_gapless",
+    "path": "fares_abbad",
+    "url": "https://download.quranicaudio.com/quran/fares_abbad/",
+    "databaseName": "fares_abbad",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 13,
+    "name": "qari_dosary_gapless",
+    "path": "yasser_al-dosari",
+    "url": "https://download.quranicaudio.com/quran/yasser_al-dosari/",
+    "databaseName": "yasser_al-dosari",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 14,
+    "name": "qari_hudhaify_gapless",
+    "path": "hudhaify",
+    "url": "https://download.quranicaudio.com/quran/hudhaify/",
+    "databaseName": "hudhaify",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 15,
+    "name": "qari_jibreen_gapless",
+    "path": "ali_jaber",
+    "url": "https://download.quranicaudio.com/quran/ali_jaber/",
+    "databaseName": "ali_jaber",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 19,
+    "name": "qari_ajmi_gapless",
+    "path": "ahmed_ibn_ali_al-ajamy",
+    "url": "https://download.quranicaudio.com/quran/ahmed_ibn_ali_al-ajamy/",
+    "databaseName": "ahmed_ibn_ali_al-ajamy",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 20,
+    "name": "qari_banna_gapless",
+    "path": "mahmood_ali_albanna",
+    "url": "https://download.quranicaudio.com/quran/mahmood_ali_albanna/",
+    "databaseName": "mahmood_ali_albanna",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 21,
+    "name": "qari_tablaway_gapless",
+    "path": "tablaway",
+    "url": "https://download.quranicaudio.com/quran/tablaway/",
+    "databaseName": "tablaway",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 22,
+    "name": "qari_hani_rifai_gapless",
+    "path": "hani_ar-rifai",
+    "url": "https://download.quranicaudio.com/quran/hani_ar-rifai/",
+    "databaseName": "hani_ar-rifai",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 24,
+    "name": "qari_khalil_husary_tajweed_gapless",
+    "path": "husary_tajweed",
+    "url": "https://download.quranicaudio.com/quran/husary_tajweed/",
+    "databaseName": "husary_tajweed",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 25,
+    "name": "qari_husary_mujawwad_gapless",
+    "path": "mahmoud_khalil_al-husary_iza3a",
+    "url": "https://download.quranicaudio.com/quran/mahmoud_khalil_al-husary_iza3a/",
+    "databaseName": "mahmoud_khalil_al-husary_iza3a",
+    "hasGaplessAlternative": false,
+    "category": "arabic"
+  },
+  {
+    "id": 101,
+    "name": "qari_walk_gapless",
+    "path": "walk",
+    "url": "https://download.quranicaudio.com/quran/walk/",
+    "databaseName": "walk",
+    "hasGaplessAlternative": false,
+    "category": "english"
+  },
+  {
+    "id": 102,
+    "name": "qari_sahih_english_gapless",
+    "path": "sahih_international",
+    "url": "https://download.quranicaudio.com/quran/sahih_international/",
+    "databaseName": "sahih_international",
+    "hasGaplessAlternative": false,
+    "category": "english"
+  }
+]
